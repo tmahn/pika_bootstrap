@@ -1,2 +1,2 @@
-pika
+pika==0.13.1
 logger
